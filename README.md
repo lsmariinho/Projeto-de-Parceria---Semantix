@@ -3,7 +3,7 @@ Projeto do Curso Análista de Dados
 
 Dashboard: https://lookerstudio.google.com/reporting/f926b5f9-c6fa-4b14-98fa-759dad1da41b
 
-Este projeto de Análise de Dados e Business Intelligence (BI) aborda a problemática central da monetização em jogos Free-to-Play (F2P): a baixa taxa de conversão de ofertas genéricas. O objetivo é demonstrar uma metodologia robusta para aumentar o Valor do Tempo de Vida (LTV) do jogador.
+Este projeto de Análise de Dados aborda a problemática central da monetização em jogos Free-to-Play (F2P): a baixa taxa de conversão de ofertas genéricas. O objetivo é demonstrar uma metodologia robusta para aumentar o Valor do Tempo de Vida (LTV) do jogador.
 
 Metodologia:
 Dados: Utilização de dados sintéticos gerados via Python, simulando a estrutura econômica real (Regra 80/20 e propensão a gastar).
