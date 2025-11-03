@@ -1,12 +1,11 @@
-# Projeto de Parceria | Semantix
-Projeto do Cursoo Análista de Dados - Ebac em parceria com a Semantix
+# Projeto de Parceria | Ebac em parceria com Semantix
+Projeto do Curso Análista de Dados
 
 Dashboard: https://lookerstudio.google.com/reporting/f926b5f9-c6fa-4b14-98fa-759dad1da41b
 
 Este projeto de Análise de Dados e Business Intelligence (BI) aborda a problemática central da monetização em jogos Free-to-Play (F2P): a baixa taxa de conversão de ofertas genéricas. O objetivo é demonstrar uma metodologia robusta para aumentar o Valor do Tempo de Vida (LTV) do jogador.
 
 Metodologia:
-
 Dados: Utilização de dados sintéticos gerados via Python, simulando a estrutura econômica real (Regra 80/20 e propensão a gastar).
 Análise: Execução de Análise Exploratória de Dados (EDA) para identificar os preditores mais fortes: Histórico de Gasto e Nível de Progresso.
 Solução: Desenvolvimento de um plano estratégico baseado na segmentação e otimização de timing da oferta, provando que o foco deve ser no upsell e em jogadores de alto engajamento.
