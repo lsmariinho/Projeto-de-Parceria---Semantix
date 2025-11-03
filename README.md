@@ -7,9 +7,9 @@ Este projeto de Análise de Dados aborda a problemática central da monetizaçã
 
 Metodologia:
 
-* **Dados: Utilização de dados sintéticos gerados via Python, simulando a estrutura econômica real (Regra 80/20 e propensão a gastar).
-* **Análise: Execução de Análise Exploratória de Dados (EDA) para identificar os preditores mais fortes: Histórico de Gasto e Nível de Progresso.
-* **Solução: Desenvolvimento de um plano estratégico baseado na segmentação e otimização de timing da oferta, provando que o foco deve ser no upsell e em jogadores de alto engajamento.
+* Dados: Utilização de dados sintéticos gerados via Python, simulando a estrutura econômica real (Regra 80/20 e propensão a gastar).
+* Análise: Execução de Análise Exploratória de Dados (EDA) para identificar os preditores mais fortes: Histórico de Gasto e Nível de Progresso.
+* Solução: Desenvolvimento de um plano estratégico baseado na segmentação e otimização de timing da oferta, provando que o foco deve ser no upsell e em jogadores de alto engajamento.
 
 
 ## 1. Coleta e Geração de Dados
