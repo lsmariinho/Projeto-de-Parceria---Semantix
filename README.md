@@ -1,4 +1,4 @@
-# Projeto de Parceria | Ebac em parceria com Semantix
+# Projeto de Parceria Ebac e Semantix
 Projeto do Curso Análista de Dados
 
 Dashboard: https://lookerstudio.google.com/reporting/f926b5f9-c6fa-4b14-98fa-759dad1da41b
